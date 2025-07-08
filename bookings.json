@@ -1,0 +1,13 @@
+[
+  {
+    "clientId": 6,
+    "tripId": 2,
+    "totalAmount": 850000,
+    "paidAmount": 0,
+    "notes": "",
+    "id": 1,
+    "bookingDate": "2025-07-08",
+    "status": "قيد الانتظار",
+    "paymentStatus": "غير مدفوع"
+  }
+]

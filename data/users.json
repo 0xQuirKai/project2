@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin123",
+      "name": "أحمد محمد",
+      "role": "مدير النظام",
+      "email": "admin@travelagency.com"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "رحلة إسطنبول الذهبية",
+    "destination": "إسطنبول، تركيا",
+    "startDate": "2024-02-15",
+    "endDate": "2024-02-22",
+    "price": 85000,
+    "status": "مؤكدة",
+    "capacity": 25,
+    "booked": 18,
+    "image": "/placeholder.svg?height=200&width=300"
+  },
+  {
+    "id": 2,
+    "name": "عمرة رمضان المباركة",
+    "destination": "مكة المكرمة، السعودية",
+    "startDate": "2024-03-10",
+    "endDate": "2024-03-17",
+    "price": 120000,
+    "status": "مؤكدة",
+    "capacity": 40,
+    "booked": 35,
+    "image": "/placeholder.svg?height=200&width=300"
+  },
+  {
+    "id": 3,
+    "name": "جولة أوروبا الساحرة",
+    "destination": "باريس، روما، برشلونة",
+    "startDate": "2024-04-05",
+    "endDate": "2024-04-15",
+    "price": 180000,
+    "status": "قيد التخطيط",
+    "capacity": 20,
+    "booked": 8,
+    "image": "/placeholder.svg?height=200&width=300"
+  },
+  {
+    "name": "",
+    "destination": "",
+    "startDate": "",
+    "endDate": "",
+    "price": 0,
+    "capacity": 0,
+    "description": "",
+    "id": 4
+  },
+  {
+    "name": "",
+    "destination": "",
+    "startDate": "",
+    "endDate": "",
+    "price": 0,
+    "capacity": null,
+    "description": "",
+    "id": 5
+  }
+]

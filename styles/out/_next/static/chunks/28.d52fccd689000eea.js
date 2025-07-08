@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[28],{4028:s=>{s.exports=JSON.parse('{"tripClients":[{"tripId":1,"clientIds":[1,2,5],"bookingIds":[1,2,4]},{"tripId":2,"clientIds":[3,4],"bookingIds":[3]},{"tripId":3,"clientIds":[1,3],"bookingIds":[5]}]}')}}]);

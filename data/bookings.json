@@ -1,0 +1,79 @@
+[
+  {
+    "clientId": 5,
+    "tripId": 2,
+    "totalAmount": 8500,
+    "paidAmount": 750,
+    "notes": "",
+    "id": 2,
+    "bookingDate": "2025-07-07",
+    "status": "قيد الانتظار",
+    "paymentStatus": "دفع جزئي"
+  },
+  {
+    "clientId": 8,
+    "tripId": 3,
+    "totalAmount": 1212,
+    "paidAmount": 1212,
+    "notes": "",
+    "id": 3,
+    "bookingDate": "2025-07-07",
+    "status": "قيد الانتظار",
+    "paymentStatus": "مدفوع بالكامل"
+  },
+  {
+    "clientId": 10,
+    "tripId": 2,
+    "totalAmount": 85000,
+    "paidAmount": 85000,
+    "notes": "",
+    "id": 4,
+    "bookingDate": "2025-07-07",
+    "status": "قيد الانتظار",
+    "paymentStatus": "مدفوع بالكامل"
+  },
+  {
+    "clientId": 18,
+    "tripId": 4,
+    "totalAmount": 3000,
+    "paidAmount": 0,
+    "notes": "",
+    "id": 5,
+    "bookingDate": "2025-07-07",
+    "status": "قيد الانتظار",
+    "paymentStatus": "غير مدفوع"
+  },
+  {
+    "clientId": 4,
+    "tripId": 3,
+    "totalAmount": 85000,
+    "paidAmount": 0,
+    "notes": "",
+    "id": 6,
+    "bookingDate": "2025-07-08",
+    "status": "قيد الانتظار",
+    "paymentStatus": "غير مدفوع"
+  },
+  {
+    "clientId": 5,
+    "tripId": 2,
+    "totalAmount": 2,
+    "paidAmount": 0,
+    "notes": "",
+    "id": 7,
+    "bookingDate": "2025-07-08",
+    "status": "قيد الانتظار",
+    "paymentStatus": "غير مدفوع"
+  },
+  {
+    "clientId": 4,
+    "tripId": 3,
+    "totalAmount": 32000,
+    "paidAmount": 0,
+    "notes": "",
+    "id": 8,
+    "bookingDate": "2025-07-08",
+    "status": "قيد الانتظار",
+    "paymentStatus": "غير مدفوع"
+  }
+]
