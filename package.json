@@ -35,7 +35,7 @@
     },
 
     "scripts": {
-        "build": "next build & next export",
+        "build": "next build",
         "dist": "npm run build && electron-builder",
         "dev": "next dev",
         "lint": "next lint",

@@ -35,7 +35,7 @@ export default function LoginPage() {
             email: "admin@travelagency.com",
           }),
         )
-        window.location.href = "./dashboard.html";
+        window.location.href = "dashboard.html";
 
       } else {
         setError("اسم المستخدم أو كلمة المرور غير صحيحة")
@@ -60,14 +60,7 @@ export default function LoginPage() {
         <CardContent className="space-y-6">
           <div className="bg-blue-50 p-4 rounded-lg border border-blue-200">
             <h3 className="font-semibold text-blue-800 mb-2">بيانات تجريبية للدخول:</h3>
-            <div className="text-sm text-blue-700 space-y-1">
-              <p>
-                <strong>اسم المستخدم:</strong> admin
-              </p>
-              <p>
-                <strong>كلمة المرور:</strong> admin123
-              </p>
-            </div>
+
           </div>
 
           <form onSubmit={handleLogin} className="space-y-4">
